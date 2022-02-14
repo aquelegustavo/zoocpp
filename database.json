@@ -1,0 +1,44 @@
+{
+    "animals": {
+        "hpD6bIv5ePhsGYe9": {
+            "cor": {
+                "key": "cor",
+                "type": "string",
+                "value": "laranja"
+            },
+            "especie": {
+                "key": "especie",
+                "type": "string",
+                "value": "girafus"
+            },
+            "idade": {
+                "key": "idade",
+                "type": "int",
+                "value": "13"
+            },
+            "nome": {
+                "key": "nome",
+                "type": "string",
+                "value": "Flafla"
+            },
+            "quantidadeDePatas": {
+                "key": "quantidadeDePatas",
+                "type": "int",
+                "value": "4"
+            },
+            "tamanhoDoPescoco": {
+                "key": "tamanhoDoPescoco",
+                "type": "int",
+                "value": "3"
+            }
+        }
+    },
+    "users": {
+        "lassHShGhNw9dbQS": {
+            "course": "Engenharia de Computação",
+            "happy": true,
+            "name": "Gustavo",
+            "university": "UFSC"
+        }
+    }
+}
